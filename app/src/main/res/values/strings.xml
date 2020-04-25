@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Factor</string>
+    <string name="enter_the_number" translatable="false">Enter the number</string>
+    <string name="button_1" translatable="false">button_1</string>
+    <string name="button_2" translatable="false">button_2</string>
+    <string name="button_3" translatable="false">button_3</string>
+    <string name="click" translatable="false">Click</string>
+    <string name="display">Display</string>
+    <string name="refresh" translatable="false">Try_Again?</string>
+</resources>
